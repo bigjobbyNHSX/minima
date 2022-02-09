@@ -54,8 +54,7 @@ minima:
 
 # Build settings
 theme: minima
- skin: dark
- date_format: "%b %-d, %Y"
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
