@@ -4,9 +4,9 @@ title: Devices
 permalink: /devices/
 ---
 <!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
-<link rel="stylesheet" href="./src/lite-yt-embed.css" />
+<link rel="stylesheet" href="./minima/src/lite-yt-embed.css" />
 
-<script src="./src/lite-yt-embed.js"></script>
+<script src="./minima/src/lite-yt-embed.js"></script>
 
 <!-- Use the element. You may use it before the lite-yt-embed JS is executed. -->
 
