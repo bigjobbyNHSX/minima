@@ -7,5 +7,4 @@
 #
 layout: home
 ---
-yo brother
-fewfe
+Yo, yo, Whazzaaaaaaaaaaaaaap?
