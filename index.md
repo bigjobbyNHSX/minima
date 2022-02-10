@@ -14,8 +14,9 @@ layout: home
 </a>
 
 
-<a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
+<p><a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-solid fa-square-phone"></i>
-</a>
-Yo, yo, Whazzaaaaaaaaaaaaaap?
+</a>Call Us</p>
+
+<p>Yo, yo, Whazzaaaaaaaaaaaaaap?</p>
 
