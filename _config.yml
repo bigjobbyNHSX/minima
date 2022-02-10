@@ -5,6 +5,8 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Sheffield Ambulatory Wound Clinics
 
+url: https://bigjobbynhsx.github.io/minima/
+baseurl: /minima
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
