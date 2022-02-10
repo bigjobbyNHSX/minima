@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Sheffield Ambulatory Wound Clinics
 
 url: bigjobbyNHSX.github.io
-baseurl: /bigjobbyNHSX.github.io
+baseurl: /bigjobbyNHSX.github.io/minima/
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
