@@ -23,6 +23,12 @@
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
+          
+          {% if site.author.telephone -%}
+            <li><a class="u-telephone" href="Call Us:{{ site.author.telephone }}">{{ site.author.telephone }}</a></li>
+          {%- endif %}
+          
+          
         </ul>
       {%- endif %}
       </div>
