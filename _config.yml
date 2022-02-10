@@ -1,9 +1,10 @@
 title: SheffieldAWC
 author:
   # name: email us
-  email: your-email@domain.com
+  email: sth.ambulatorywoundclinics@nhs.net
+  telephone: 0114 21312321323
 description: > # this means to ignore newlines until "show_excerpts:"
-  Sheffield Ambulatory Wound Clinics
+  Sheffield Ambulatory Wound Clinics 2022
 
 url: https://bigjobbynhsx.github.io/minima/
 baseurl: /minima
