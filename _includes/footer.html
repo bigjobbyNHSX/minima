@@ -25,7 +25,7 @@
           {%- endif %}
           
           {% if site.author.telephone -%}
-            <li><a class="u-telephone">{{ site.author.telephone }}</li>
+            <li><a class="u-telephone">{{ site.author.telephone | escape }}</li>
           {%- endif %}
           
           
