@@ -10,6 +10,7 @@ layout: home
 
 <script src="https://kit.fontawesome.com/da78d05458.js" crossorigin="anonymous"></script>
 <a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
-  <i class="fa fa-fw fa-phone"></i>
+  <i class="fa fa-fw fa-phone-rotary"></i>
 </a>
 Yo, yo, Whazzaaaaaaaaaaaaaap?
+
