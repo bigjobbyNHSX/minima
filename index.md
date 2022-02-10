@@ -8,15 +8,13 @@
 layout: home
 ---
 
-<script src="https://kit.fontawesome.com/da78d05458.js" crossorigin="anonymous"></script>
+<p><script src="https://kit.fontawesome.com/da78d05458.js" crossorigin="anonymous"></script>
 <a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-fw fa-phone"></i>
-</a>
+</a>0114 307 8091</p>
 
 
-<p><a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
-  <i class="fa fa-solid fa-square-phone"></i>
-</a>Call Us</p>
+
 
 <p>Yo, yo, Whazzaaaaaaaaaaaaaap?</p>
 
