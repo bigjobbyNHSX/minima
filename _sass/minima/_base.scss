@@ -116,12 +116,12 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: $link-visited-color;
+    color: $link-base-color;
   }
 
   &:hover {
     color: $link-hover-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
